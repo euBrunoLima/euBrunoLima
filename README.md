@@ -3,8 +3,6 @@
   Entusiasta por tecnologia, sempre busco aprimorar meus conhecimentos e desenvolver minhas habilidades com dedicação e curiosidade. Estudante de Análise e Desenvolvimento de Sistemas pela Fatec Santana de       Parnaíba. Longe do meio Técnico, gosto de ouvir música e ler um bom livro
 </p>
 
-</br>
-
 <h2>⚙ Tecnologias</h1>
 
 <p >
@@ -16,9 +14,6 @@
   <img src="https://github.com/user-attachments/assets/fed2589d-206e-427a-896b-27aaaca08d53" height="42" alt="MySQL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Figma"/>
 </p>
-
-
-</br>
 
 ## 📫 Contato
 <p>
