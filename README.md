@@ -1,14 +1,12 @@
 <h1>👋 Olá, eu sou {Bruno Lima}</h1>
-
-<ul>
-  <li>Entusiasta por tecnologia, sempre busco aprimorar meus conhecimentos e desenvolver minhas habilidades com dedicação e curiosidade;</li>
-  <li>Estudante de Análise e Desenvolvimento de Distemas pela Fatec Santana de Parnaíba;</li>
-</ul>
-  
-   
-
+<p>
+  Entusiasta por tecnologia, sempre busco aprimorar meus conhecimentos e desenvolver minhas habilidades com dedicação e curiosidade. Estudante de Análise e Desenvolvimento de Sistemas pela Fatec Santana de       Parnaíba. Longe do meio Técnico, gosto de ouvir música e ler um bom livro
+</p>
 
 </br>
+
+<h2>⚙ Tecnologias</h1>
+
 <p >
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3"/>
@@ -24,13 +22,13 @@
 
 ## 📫 Contato
 <p>
-  <a href="https://www.instagram.com/" target="_blank">
+  <a href="https://www.instagram.com/eubrunolb/" target="_blank">
     <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-  <a href="mailto:seuemail@gmail.com" target="_blank">
+  <a href="bruno.beserra2024@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/seu-perfil" target="_blank">
+  <a href="https://www.linkedin.com/in/bruno-lima-66b73618b/" target="_blank">
     <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
