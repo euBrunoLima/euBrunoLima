@@ -1,6 +1,6 @@
 <h1>👋 Olá, eu sou {Bruno Lima}</h1>
 <p>
-  Entusiasta por tecnologia, sempre busco aprimorar meus conhecimentos e desenvolver minhas habilidades com dedicação e curiosidade. Estudante de Análise e Desenvolvimento de Sistemas pela Fatec Santana de       Parnaíba. Longe do meio Técnico, gosto de ouvir música e ler um bom livro
+  Entusiasta por tecnologia, sempre busco aprimorar meus conhecimentos e desenvolver minhas habilidades com dedicação e curiosidade. Estudante de Análise e Desenvolvimento de Sistemas pela Fatec Santana de       Parnaíba. Longe do meio técnico, gosto de ouvir música e ler um bom livro
 </p>
 
 <h2>⚙ Tecnologias</h1>
@@ -18,14 +18,17 @@
 ## 📫 Contato
 <p>
   <a href="https://www.instagram.com/eubrunolb/" target="_blank">
-    <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+    <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" width="100" height="28" />
   </a>
   <a href="mailto:bruno.beserra2024@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="100" height="28"/>
   </a>
   <a href="https://www.linkedin.com/in/bruno-lima-66b73618b/" target="_blank">
-    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="100" height="28"/>
   </a>
+  <a href="https://www.threads.net/@eubrunolb" target="_blank">
+  <img src="https://img.shields.io/badge/THREADS-000000?style=for-the-badge&logo=threads&logoColor=white" width="100" height="28"/>
+</a>
 </p>
 
 
