@@ -15,7 +15,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Figma"/>
 </p>
 
-## 📫 Contato
+<h2>📫 Contato</h2>
 <p>
   <a href="https://www.instagram.com/eubrunolb/" target="_blank">
     <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" width="100" height="28" />
@@ -32,7 +32,9 @@
 </p>
 
 
-</br>
+
+<h2>📈 GitHub Overview</h2>
+
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=euBrunoLima&show_icons=true&theme=radical" width="400"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=euBrunoLima&layout=compact&theme=radical&hide_border=white&show_icons=true" width="300" />
