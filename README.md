@@ -41,6 +41,3 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=euBrunoLima&layout=compact&theme=radical&hide_border=false&langs_count=6" width="300" />
 </p>
 
-
-![GitHub Snake](https://github.com/euBrunoLima/snk/blob/output/github-contribution-grid-snake-dark.svg)
-
