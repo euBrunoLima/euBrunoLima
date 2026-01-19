@@ -39,6 +39,6 @@
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=euBrunoLima&show_icons=true&theme=radical" width="400"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=euBrunoLima&layout=compact&theme=radical&hide_border=false&langs_count=6" width="300" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=euBrunoLima&layout=compact&theme=radical&hide_border=false&langs_count=8" width="300" />
 </p>
 
