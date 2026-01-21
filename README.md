@@ -1,4 +1,4 @@
-<h1>👋 Olá, eu sou {Bruno Lima}</h1>
+<h1>👋 Olá, eu sou `${Bruno Lima}`</h1>
 <p>
   Entusiasta por tecnologia, sempre busco aprimorar meus conhecimentos e desenvolver minhas habilidades com dedicação e curiosidade. Estudante de Análise e Desenvolvimento de Sistemas pela Fatec Santana de       Parnaíba. Longe do meio técnico, gosto de ouvir música e ler um bom livro
 </p>
