@@ -36,11 +36,34 @@
 </p>
 
 
-
 <h2>📈 GitHub Overview</h2>
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=euBrunoLima&show_icons=true&theme=radical" width="400"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=euBrunoLima&layout=compact&theme=radical&hide_border=false&langs_count=8" width="300" />
-</p>
+<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+
+  <picture>
+    <source 
+      media="(prefers-color-scheme: dark)" 
+      srcset="https://github-readme-stats-six-seven.vercel.app/api?username=euBrunoLima&show_icons=true&count_private=true&theme=tokyonight&title_color=00bfff&icon_color=00bfff&text_color=ffffff"
+    >
+    <source 
+      media="(prefers-color-scheme: light)" 
+      srcset="https://github-readme-stats-six-seven.vercel.app/api?username=euBrunoLima&show_icons=true&count_private=true&theme=tokyonight&title_color=00bfff&icon_color=00bfff&text_color=ffffff"
+    >
+    <img alt="GitHub Stats" src="https://github-readme-stats-six-seven.vercel.app/api?username=euBrunoLima&show_icons=true&count_private=true&theme=tokyonight" height="200px">
+  </picture>
+
+
+  <picture>
+    <source 
+      media="(prefers-color-scheme: dark)" 
+      srcset="https://github-readme-stats-six-seven.vercel.app/api/top-langs/?username=euBrunoLima&layout=compact&langs_count=8&theme=tokyonight&title_color=00bfff&text_color=ffffff"
+    >
+    <source 
+      media="(prefers-color-scheme: light)" 
+      srcset="https://github-readme-stats-six-seven.vercel.app/api/top-langs/?username=euBrunoLima&layout=compact&langs_count=8&theme=tokyonight&title_color=00bfff&text_color=ffffff"
+    >
+    <img alt="Top Languages" src="https://github-readme-stats-six-seven.vercel.app/api/top-langs/?username=euBrunoLima&layout=compact&langs_count=8&theme=tokyonight" height="200px">
+  </picture>
+
+</div>
 
