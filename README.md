@@ -38,7 +38,7 @@
 
 <h2>📈 GitHub Overview</h2>
 
-<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+<div >
 
   <picture>
     <source 
