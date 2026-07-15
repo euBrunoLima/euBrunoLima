@@ -40,7 +40,7 @@
 
 <div >
 
-  <picture>
+  <picture styles="max-width: 100px">
     <source 
       media="(prefers-color-scheme: dark)" 
       srcset="https://github-readme-stats-six-seven.vercel.app/api?username=euBrunoLima&show_icons=true&count_private=true&theme=tokyonight&title_color=00bfff&icon_color=00bfff&text_color=ffffff"
@@ -53,7 +53,7 @@
   </picture>
 
 
-  <picture>
+  <picture styles="max-width: 100px">
     <source 
       media="(prefers-color-scheme: dark)" 
       srcset="https://github-readme-stats-six-seven.vercel.app/api/top-langs/?username=euBrunoLima&layout=compact&langs_count=8&theme=tokyonight&title_color=00bfff&text_color=ffffff"
